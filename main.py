@@ -5,7 +5,6 @@ import os
 import tkinter as tk
 from tkinter import filedialog
 
-print("test 2")
 
 #Allgemeine Funktion definieren
 def read_csv_data(source_file, object_type, quantity_column):
